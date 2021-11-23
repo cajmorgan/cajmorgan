@@ -1,4 +1,5 @@
 ✨ Welcome to my GitHub profile! ✨
+🤓🪕💻
 
 Here you can find most of my projects I've been working on lately. 
 Right now I'm creating libraries for Front-end JavaScript and NodeJS,
